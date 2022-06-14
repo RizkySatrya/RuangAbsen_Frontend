@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/drawable/bg_btn_primary.xml" value="0.121" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/drawable/bg_edit_text.xml" value="0.121" />
-        <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_forgot_password.xml" value="0.22" />
+        <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_login.xml" value="0.16" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_main.xml" value="0.14356884057971014" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_splash.xml" value="0.1" />
       </map>
