@@ -10,4 +10,8 @@
     <string name="profile">Profil</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_location">Lokasi Terkini</string>
+    <string name="default_text">-</string>
+    <string name="your_photo">Foto Kamu</string>
+    <string name="check_in">Check In</string>
 </resources>
