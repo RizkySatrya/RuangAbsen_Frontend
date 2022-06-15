@@ -19,8 +19,8 @@
                 android:id="@+id/appbar_history"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@android:color/transparent"
-                android:elevation="0dp"
+                android:background="@color/background"
+                app:elevation="0dp"
                 app:layout_constraintTop_toTopOf="parent">
 
                 <androidx.appcompat.widget.Toolbar
@@ -29,7 +29,7 @@
                     android:layout_height="wrap_content"
                     app:title="@string/history"
                     app:titleTextColor="@color/colorPrimary"
-                    app:elevation="0dp"/>
+                    android:elevation="0dp"/>
 
             </com.google.android.material.appbar.AppBarLayout>
 
