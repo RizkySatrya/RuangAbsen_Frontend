@@ -8,7 +8,7 @@ import com.example.ruangabsen.R
 import com.example.ruangabsen.views.login.LoginActivity
 import org.jetbrains.anko.startActivity
 
-class Activity: AppCompatActivity() {
+class SplashActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)

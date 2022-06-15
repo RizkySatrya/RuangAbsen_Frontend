@@ -39,7 +39,7 @@
             android:orientation="vertical"
             android:gravity="center_horizontal">
 
-            <ImageView
+            <android.widget.ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/image_profile"
@@ -76,15 +76,6 @@
                     android:layout_height="wrap_content"
                     android:text="@string/default_text"
                     android:textSize="16sp"/>
-
-                <Button
-                    android:id="@+id/btn_change_password"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/change_password"
-                    android:background="@drawable/bg_btn_primary"
-                    android:textColor="@android:color/white"
-                    android:layout_marginTop="40dp"/>
 
                 <Button
                     android:id="@+id/btn_credits"

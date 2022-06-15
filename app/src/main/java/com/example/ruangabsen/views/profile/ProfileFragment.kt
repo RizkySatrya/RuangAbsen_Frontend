@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.ruangabsen.R
 import com.example.ruangabsen.databinding.FragmentProfileBinding
-import com.example.ruangabsen.views.changepass.ChangePasswordActivity
 import com.example.ruangabsen.views.login.LoginActivity
 import com.example.ruangabsen.views.main.MainActivity
 import org.jetbrains.anko.startActivity
@@ -31,9 +30,6 @@ class ProfileFragment : Fragment() {
     }
 
     private fun onClick() {
-        binding?.btnChangePassword?.setOnClickListener {
-            context?.startActivity<ChangePasswordActivity>()
-        }
 
         binding?.btnCredits?.setOnClickListener {
             context?.toast("Made by Decode Orbit")

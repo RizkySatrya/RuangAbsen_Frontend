@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.ruangabsen.R
 import com.example.ruangabsen.databinding.ActivityLoginBinding
-import com.example.ruangabsen.views.forgotpass.ForgotPasswordActivity
 import com.example.ruangabsen.views.main.MainActivity
 import org.jetbrains.anko.startActivity
 
@@ -24,10 +23,6 @@ class LoginActivity : AppCompatActivity() {
     private fun onClick() {
         binding.btnLogin.setOnClickListener {
             startActivity<MainActivity>()
-        }
-
-        binding.btnLupaPassword.setOnClickListener {
-            startActivity<ForgotPasswordActivity>()
         }
     }
 }
