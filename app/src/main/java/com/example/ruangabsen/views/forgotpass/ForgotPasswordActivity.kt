@@ -16,6 +16,15 @@ class ForgotPasswordActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         init()
+        //Tambahkan Function onClick
+        onClick()
+    }
+
+    //Function Onclick
+    private fun onClick() {
+        binding.tbForgotPassword.setNavigationOnClickListener {
+            finish()
+        }
     }
 
     private fun init() {
