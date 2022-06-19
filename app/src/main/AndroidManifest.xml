@@ -15,7 +15,7 @@
         android:roundIcon="@mipmap/ic_new_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RuangAbsen"
-        tools:targetApi="31">
+        tools:targetApi="n">
         <activity android:name=".views.login.LoginActivity" />
 
         <!--Pindahkan IntentFilter ke SplashActivity-->
@@ -32,6 +32,7 @@
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
+
     </application>
 
 </manifest>

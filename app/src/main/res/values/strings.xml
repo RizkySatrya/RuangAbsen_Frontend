@@ -16,4 +16,8 @@
     <string name="check_out">Check Out</string>
     <string name="logout">Logout</string>
     <string name="credits">Credits</string>
+    <string name="failed">Gagal</string>
+    <string name="please_field_your_email">Silahkan isi dengan email Kamu</string>
+    <string name="please_use_valid_email">Silahkan gunakan email yang valid</string>
+    <string name="please_field_your_password">Silahkan isi password Kamu</string>
 </resources>

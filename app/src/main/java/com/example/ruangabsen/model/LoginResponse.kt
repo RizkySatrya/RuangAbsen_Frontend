@@ -14,10 +14,16 @@ data class LoginResponse(
 	val message: String? = null
 )
 
+data class Meta(
+
+	@field:SerializedName("token")
+	val token: String? = null
+)
+
 data class User(
 
 	@field:SerializedName("is_admin")
-	val isAdmin: Int? = null,
+	val isAdmin: Boolean? = null,
 
 	@field:SerializedName("updated_at")
 	val updatedAt: String? = null,
@@ -26,7 +32,7 @@ data class User(
 	val name: String? = null,
 
 	@field:SerializedName("photo")
-	val photo: Any? = null,
+	val photo: String? = null,
 
 	@field:SerializedName("created_at")
 	val createdAt: String? = null,
@@ -39,10 +45,4 @@ data class User(
 
 	@field:SerializedName("email")
 	val email: String? = null
-)
-
-data class Meta(
-
-	@field:SerializedName("token")
-	val token: String? = null
 )

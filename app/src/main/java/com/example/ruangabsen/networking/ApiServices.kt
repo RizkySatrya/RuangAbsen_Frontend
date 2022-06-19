@@ -1,9 +1,9 @@
 package com.example.ruangabsen.networking
 
 object ApiServices {
-    fun getRuangAbsenServices(): RuangAbsenApiServices{
+    fun getLiveAttendanceServices(): LiveAttendanceApiServices{
         return RetrofitClient
             .getClient()
-            .create(RuangAbsenApiServices::class.java)
+            .create(LiveAttendanceApiServices::class.java)
     }
 }

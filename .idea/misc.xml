@@ -17,7 +17,7 @@
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_forgot_password.xml" value="0.22" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_main.xml" value="0.21" />
-        <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/activity_splash.xml" value="0.22" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/bottom_sheet_attendance.xml" value="0.25" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/fragment_attendance.xml" value="0.22" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/layout/fragment_history.xml" value="0.22" />
@@ -27,6 +27,7 @@
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/menu/main_menu.xml" value="0.18" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1595" />
+        <entry key="..\:/Users/Rizky/AndroidStudioProjects/RuangAbsen/app/src/main/res/xml/network_security_config.xml" value="0.1" />
       </map>
     </option>
   </component>
